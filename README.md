@@ -9,7 +9,7 @@ Hands-on implementations of Generative AI concepts including LLMs, prompt engine
   <img src="https://img.shields.io/badge/RAG-Vector%20Search-success?style=for-the-badge">
 </p>
 
-<h1 align="center">🚀 Generative AI Lab</h1>
+<h1 align="center">🧑‍💻 Generative AI Lab</h1>
 
 <p align="center">
   <b>Official Laboratory Repository for the course AD23633 – Generative AI</b><br>
