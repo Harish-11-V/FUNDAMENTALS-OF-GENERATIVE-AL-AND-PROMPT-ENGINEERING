@@ -3,7 +3,6 @@ Hands-on implementations of Generative AI concepts including LLMs, prompt engine
 
 ---
 
-🖼️ README.md (Premium Version)
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-Lab-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge">
