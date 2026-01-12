@@ -148,8 +148,6 @@ Students learn how today’s AI models generate text, understand context, retrie
 
 ## 🧩 Folder Structure
 
-Use this format — this will render correctly in GitHub:
-
 ```text
 GENERATIVE-AI-LAB
 │
@@ -166,7 +164,7 @@ GENERATIVE-AI-LAB
 ├── models
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🌟 Learning Outcomes
@@ -180,6 +178,7 @@ By completing this lab, students gain the ability to build **AI chatbots**, **do
 **Harish Kumar V**  
 B.Tech – Artificial Intelligence & Machine Learning  
 Rajalakshmi Engineering College
-```
+
+---
 
 
