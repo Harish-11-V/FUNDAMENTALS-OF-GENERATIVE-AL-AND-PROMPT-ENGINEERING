@@ -81,8 +81,76 @@ Students learn how today’s AI models generate text, understand context, retrie
 
 ## 🧩 Folder Structure
 
+---
 
+## 📘 UNIT-WISE SYLLABUS
 
+### 🔹 **UNIT I – Foundations of Generative AI**
+
+* Generative AI vs Discriminative AI
+* Statistical Models: GMM, HMM
+* NLP Tasks: Text Classification, Sentiment Analysis, Summarization
+* Tokenization and Text Representation
+* Word Embeddings
+* Ethics and Bias in AI
+
+---
+
+### 🔹 **UNIT II – Core Architectures of LLMs**
+
+* Variational Autoencoders (VAE)
+* Generative Adversarial Networks (GAN)
+* Transformers
+* Encoder–Decoder Architecture
+* Self-Attention Mechanism
+* Text Generation Methods:
+
+  * Greedy Search
+  * Beam Search
+  * Top-k Sampling
+  * Nucleus Sampling
+
+---
+
+### 🔹 **UNIT III – Prompt Engineering**
+
+* Fundamentals of Prompt Design
+* Prompt Elements
+* Zero-Shot, One-Shot, Few-Shot Prompting
+* Chain-of-Thought (CoT)
+* Graph Prompting
+* Automatic Prompt Engineering (APE)
+* Best Practices for Prompt Design
+
+---
+
+### 🔹 **UNIT IV – Retrieval-Augmented Generation (RAG)**
+
+* Vector Databases
+* FAISS and Pinecone
+* Deep Lake
+* Parameter-Efficient Fine-Tuning
+* RAG Architecture
+* RAG Pipeline and Core Components
+
+---
+
+### 🔹 **UNIT V – Real-World Applications**
+
+* AI Chatbots and Virtual Assistants
+* Content Generation Tools
+* Code Generation and Debugging
+* AI Output Evaluation
+* ROUGE and BLEU Metrics
+* Iterative Prompt and Model Optimization
+
+---
+
+## 🧩 Folder Structure
+
+Use this format — this will render correctly in GitHub:
+
+```text
 GENERATIVE-AI-LAB
 │
 ├── Experiment-01_NGram-HMM
@@ -98,7 +166,6 @@ GENERATIVE-AI-LAB
 ├── models
 ├── requirements.txt
 └── README.md
-
 
 ---
 
