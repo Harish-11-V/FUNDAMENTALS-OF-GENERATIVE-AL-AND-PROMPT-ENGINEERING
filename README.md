@@ -3,15 +3,7 @@ Hands-on implementations of Generative AI concepts including LLMs, prompt engine
 
 ---
 
-# 📝 **Repository Description**
-
-**Hands-on Generative AI experiments using LLMs, Prompt Engineering, RAG, GANs, and Vector Databases.**
-
----
-
-# 🖼️ **README.md (Premium Version)**
-
-```markdown
+🖼️ README.md (Premium Version)
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-Lab-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge">
@@ -89,7 +81,7 @@ Students learn how today’s AI models generate text, understand context, retrie
 
 ## 🧩 Folder Structure
 
-```
+
 
 GENERATIVE-AI-LAB
 │
@@ -107,7 +99,6 @@ GENERATIVE-AI-LAB
 ├── requirements.txt
 └── README.md
 
-```
 
 ---
 
