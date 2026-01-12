@@ -116,15 +116,6 @@ Rajalakshmi Engineering College
 ```
 
 
-Got you 👍
-Here is the **FULL, EXTENDED, COLLEGE-READY README.md** for your
-**Subject-1: GENERATIVE AI (AD23633)** with **everything included** — objectives, units, experiments, tech stack, banners, icons, and lab structure.
-
-Just **copy & paste everything below into README.md** 👇
-
----
-
-```markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Generative%20AI-AD23633-blueviolet?style=for-the-badge">
   <img src="https://img.shields.io/badge/LLMs-Transformers-orange?style=for-the-badge">
@@ -229,8 +220,6 @@ Students will learn how modern AI systems like ChatGPT, Copilot, and AI assistan
 
 ## 📂 Folder Structure
 
-```
-
 GENERATIVE-AI-LAB
 │
 ├── Experiment-01_NGram-HMM
@@ -247,7 +236,8 @@ GENERATIVE-AI-LAB
 ├── requirements.txt
 └── README.md
 
-```
+yaml
+Copy code
 
 ---
 
@@ -262,8 +252,3 @@ By completing this lab, students will gain the ability to build **AI chatbots**,
 **Harish Kumar V**  
 B.Tech – Artificial Intelligence & Machine Learning  
 Rajalakshmi Engineering College  
-```
-
----
-
-If you want, I can now build **Subject-2, Subject-3, Subject-4, and Subject-5** in the same **premium GitHub lab format** 🔥
